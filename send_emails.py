@@ -11,7 +11,7 @@ from email.mime.text import MIMEText
 
 email_config = {}
 
-#@ CONFIGURE YOUR EMAIL ACCOUNT BELOW THIS LINE
+# CONFIGURE YOUR EMAIL ACCOUNT BELOW THIS LINE
 
 email_config["your_name"]                   = "John Doe"
 

@@ -1,0 +1,6 @@
+Hi,
+
+Here is the link to your Jitsi Meet breakout room: {link}
+
+Best,
+{name}
